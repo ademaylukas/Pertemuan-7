@@ -1,11 +1,8 @@
-| HERLIYANSYAH          |       312010387       |
-|---------------------- |-----------------------|
-|       TI.20.A.2       |   PEMROGRAMAN WEB     |
+
 | PERTEMUAN 7           |   PRAKTIKUM 6         |
 
 ## PERTEMUAN 7
 
-## LAB 6 WEB
 
 Dipertemuan kali ini kita akan mempelajari **Web FrameWork** dengan ***Bootstrap*** dalam membuat **layout**
 
